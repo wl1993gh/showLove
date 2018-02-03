@@ -10,8 +10,8 @@ body{text-align: center;}
 .box1{animation: moves 2s ease-out infinite;padding-top: 50px;}
 .box1:before,.box1:after{background: red;}
 
-.box:before{transform: translate(60px,0) rotate(-45deg);box-shadow: 13px 12px 30px -5px #873940 inset;}
-.box:after{transform: translate(130px,-300px) rotate(45deg);box-shadow: -13px 12px 30px -5px #873940 inset;}
+.box:before{transform: translate(60px,0) rotate(-45deg);box-shadow: 15px 12px 30px -5px #873940 inset;}
+.box:after{transform: translate(130px,-300px) rotate(45deg);box-shadow: -15px 12px 30px -5px #873940 inset;}
 
 .box1:before{box-shadow: 11px 9px 30px -5px #873940 inset;}
 .box1:after{box-shadow: -10px -13px 30px -5px #873940 inset;}
